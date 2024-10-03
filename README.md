@@ -1,0 +1,1 @@
+This project is part of The Odin Project's Foundations curriculum. It focuses on building a basic recipe website using HTML.

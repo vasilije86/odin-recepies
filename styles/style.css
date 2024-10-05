@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: yellowgreen;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2, h3, h4 {
+    color: orange;
+    margin-left: 20px;
+}
+
+p {
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 40px;
+}
+
+ol {
+    margin-left: 40px;
+}
+
+img {    
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    font-weight: bold;
+    color: #daa520;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
